@@ -5,3 +5,14 @@
     box-sizing: border-box;
     font-family: "Ubuntu", sans-serif;
 }
+body{
+    width: 100vw;
+    height: 100vh;
+    background: #05eaee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 40%;
+}
